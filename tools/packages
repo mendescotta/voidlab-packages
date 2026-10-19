@@ -7,10 +7,11 @@ dinit-void
 base-system-dinit
 dinit-settingsd
 
-# installer and hardware detection
+# installer, hardware detection and system tools
 caerus
 voyage
 voidhw
+pilot
 
 # GTK4 and theme (rebuilt against our gtk4/glib)
 gtk4
